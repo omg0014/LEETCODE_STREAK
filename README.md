@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
