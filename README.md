@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
