@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
