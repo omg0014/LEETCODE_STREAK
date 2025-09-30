@@ -13,4 +13,3 @@ class Solution:
             if primes[i]==0:
                 c+=1
         return c
-        
