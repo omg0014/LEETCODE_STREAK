@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0136-single-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 ## String
@@ -133,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
