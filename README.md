@@ -137,4 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
