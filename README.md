@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
