@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0371-sum-of-two-integers) |
 | [2383-add-two-integers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
