@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
