@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
