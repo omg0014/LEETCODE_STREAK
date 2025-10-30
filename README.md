@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
