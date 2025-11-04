@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Stack
 |  |
