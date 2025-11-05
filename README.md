@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1293-three-consecutive-odds) |
+| [1319-unique-number-of-occurrences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1791-richest-customer-wealth) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1319-unique-number-of-occurrences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
