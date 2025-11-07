@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0322-coin-change) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2121-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0682-baseball-game) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
