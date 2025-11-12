@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1791-richest-customer-wealth) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
