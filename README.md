@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0485-max-consecutive-ones) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 ## Matrix
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1319-unique-number-of-occurrences) |
@@ -183,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
 ## Enumeration
 |  |
@@ -291,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
