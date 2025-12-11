@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0371-sum-of-two-integers) |
+| [0908-smallest-range-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0908-smallest-range-i) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
 | [0792-binary-search](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0792-binary-search) |
+| [0908-smallest-range-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0908-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1293-three-consecutive-odds) |
