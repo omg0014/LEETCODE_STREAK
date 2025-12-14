@@ -287,19 +287,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0938-range-sum-of-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
