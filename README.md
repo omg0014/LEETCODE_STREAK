@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1323-maximum-69-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1323-maximum-69-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1610-xor-operation-in-an-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0334-increasing-triplet-subsequence) |
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
+| [1323-maximum-69-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1323-maximum-69-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Trie
 |  |
