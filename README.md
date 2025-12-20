@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1019-squares-of-a-sorted-array) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bucket Sort
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0561-array-partition) |
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
 | [1323-maximum-69-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1323-maximum-69-number) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
