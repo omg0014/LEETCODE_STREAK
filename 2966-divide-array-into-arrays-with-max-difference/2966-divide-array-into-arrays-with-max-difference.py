@@ -4,7 +4,6 @@ class Solution:
         arr=[]
         i=2
         while i<len(nums):
-        # for i in range(2,len(nums)):
             a=nums[i-2]
             b=nums[i-1]
             c=nums[i]
