@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0345-reverse-vowels-of-a-string) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0088-merge-sorted-array) |
@@ -394,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0326-power-of-three) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
