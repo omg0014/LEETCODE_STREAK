@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0367-valid-perfect-square) |
