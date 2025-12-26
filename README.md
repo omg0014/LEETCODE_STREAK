@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0434-number-of-segments-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
