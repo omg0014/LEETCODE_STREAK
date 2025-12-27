@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0326-power-of-three) |
 ## String Matching
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
