@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0792-binary-search) |
 | [0908-smallest-range-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
