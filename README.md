@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2540-minimum-common-value) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2540-minimum-common-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2540-minimum-common-value) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2058-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 ## Tree
 |  |
@@ -431,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0561-array-partition) |
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
 | [1323-maximum-69-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1323-maximum-69-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Trie
 |  |
