@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3194-find-words-containing-character](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2540-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
