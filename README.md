@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 ## String
