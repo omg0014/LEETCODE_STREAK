@@ -10,10 +10,13 @@ class Solution:
         if head==None:
             return None
         curr=head
+            
         while curr.next!=None:
             if curr.next.val==val:
                 curr.next=curr.next.next
             else:
                 curr=curr.next  
+        if curr.val==val:
+            return None
         return head
         
