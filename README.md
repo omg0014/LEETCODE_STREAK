@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1572-matrix-diagonal-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
 ## String
