@@ -3,9 +3,8 @@ class Solution:
         lst=[]
         for i,j in points:
             if x==i or y==j:
-                a=abs(x-i)
-                b=abs(y-j)
-                lst.append(a+b)
+                a=abs(x-i)+abs(y-j)
+                lst.append(a)
             else:
                 lst.append(float("inf"))
         m= min(lst)
