@@ -1,8 +1,8 @@
 class Solution:
     def smallestAbsent(self, nums: List[int]) -> int:
-        if len(nums)==1:
-            if nums[0]<0:
-                return 1
+        # if len(nums)==1:
+        #     if nums[0]<0:
+        #         return 1
 
         s=sum(nums)
         avg=s//len(nums)
