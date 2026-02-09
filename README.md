@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3194-find-words-containing-character](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-find-words-containing-character) |
+| [3798-largest-even-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3798-largest-even-number) |
 ## Hash Table
 |  |
 | ------- |
