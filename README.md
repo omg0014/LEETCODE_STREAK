@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2119-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2383-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2413-smallest-even-multiple) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1816-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2058-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2413-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
