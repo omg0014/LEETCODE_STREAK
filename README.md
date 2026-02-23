@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0206-reverse-linked-list) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0203-remove-linked-list-elements) |
