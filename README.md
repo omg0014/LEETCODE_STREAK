@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3637-trionic-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1903-largest-odd-number-in-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Trie
 |  |
 | ------- |
