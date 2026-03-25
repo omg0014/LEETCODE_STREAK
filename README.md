@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3637-trionic-array-i) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3701-compute-alternating-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3701-compute-alternating-sum) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3701-compute-alternating-sum) |
 ## Tree
 |  |
 | ------- |
