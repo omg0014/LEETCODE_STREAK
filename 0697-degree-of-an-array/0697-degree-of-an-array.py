@@ -12,18 +12,17 @@ class Solution:
                 d[a] = 1
                 first[a] = i
                 last[a] = i
-        print(first)
-        print(last)
+
         a=max(d.values())
         l=[]
         for i,j in d.items():
             if j==a:
                 l.append(i)
-
+        print(l)
         ans = float("inf")
         for i in l:
             ans = min(ans, last[i] - first[i]+1)
-            print(first[i],last[i])
+            # print(first[i],last[i])
 
         return ans
 
