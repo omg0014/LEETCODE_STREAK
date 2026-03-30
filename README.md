@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1528-kids-with-the-greatest-number-of-candies) |
