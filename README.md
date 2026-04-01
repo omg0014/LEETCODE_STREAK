@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1952-three-divisors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -380,11 +381,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1952-three-divisors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2413-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
