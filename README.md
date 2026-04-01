@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2058-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2248-intersection-of-multiple-arrays) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2248-intersection-of-multiple-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2248-intersection-of-multiple-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2248-intersection-of-multiple-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2352-equal-row-and-column-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2352-equal-row-and-column-pairs) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0682-baseball-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2058-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2352-equal-row-and-column-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
