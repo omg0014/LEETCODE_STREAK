@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1646-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1773-count-items-matching-a-rule](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1773-count-items-matching-a-rule) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1791-richest-customer-wealth](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1791-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1816-truncate-sentence) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0771-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1773-count-items-matching-a-rule](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1816-truncate-sentence) |
 | [1894-merge-strings-alternately](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1894-merge-strings-alternately) |
