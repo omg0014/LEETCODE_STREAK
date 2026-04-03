@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1323-maximum-69-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1610-xor-operation-in-an-array) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1610-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2032-two-out-of-three) |
 ## Divide and Conquer
