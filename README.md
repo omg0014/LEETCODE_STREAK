@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-find-words-containing-character) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3798-largest-even-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3798-largest-even-number) |
 ## Hash Table
 |  |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3227-find-missing-and-repeated-values) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3583-count-special-triplets](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3663-find-the-least-frequent-digit) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3583-count-special-triplets](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3663-find-the-least-frequent-digit) |
