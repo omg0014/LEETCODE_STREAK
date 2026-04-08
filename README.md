@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2540-minimum-common-value) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2923-find-champion-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2923-find-champion-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3194-find-words-containing-character](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-find-words-containing-character) |
 | [3798-largest-even-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3798-largest-even-number) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3583-count-special-triplets](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3663-find-the-least-frequent-digit) |
