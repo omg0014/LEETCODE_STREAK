@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0643-maximum-average-subarray-i) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0697-degree-of-an-array) |
