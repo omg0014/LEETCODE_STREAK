@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2383-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2427-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2752-sum-multiples) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2427-number-of-common-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
