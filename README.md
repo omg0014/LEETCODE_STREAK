@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3663-find-the-least-frequent-digit) |
 ## Array
 |  |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2610-closest-prime-numbers-in-range) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Database
 |  |
 | ------- |
