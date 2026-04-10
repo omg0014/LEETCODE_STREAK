@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3701-compute-alternating-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3866-first-unique-even-element) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3866-first-unique-even-element) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
