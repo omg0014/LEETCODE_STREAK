@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0066-plus-one) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0242-valid-anagram) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0657-robot-return-to-origin) |
