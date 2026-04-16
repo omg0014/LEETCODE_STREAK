@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3467-transform-array-by-parity](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3467-transform-array-by-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3583-count-special-triplets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
