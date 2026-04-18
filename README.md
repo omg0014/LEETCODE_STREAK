@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3663-find-the-least-frequent-digit) |
+| [3783-mirror-distance-of-an-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
