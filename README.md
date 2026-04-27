@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2923-find-champion-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2923-find-champion-i) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3467-transform-array-by-parity) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2352-equal-row-and-column-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3701-compute-alternating-sum) |
 ## Tree
