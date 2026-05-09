@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0771-jewels-and-stones) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1773-count-items-matching-a-rule](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1816-truncate-sentence) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/omg0014/LEETCODE_STREAK/tree/master/0910-smallest-range-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1323-maximum-69-number) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2078-two-furthest-houses-with-different-colors) |
