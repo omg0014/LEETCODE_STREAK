@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2553-separate-the-digits-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2352-equal-row-and-column-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2553-separate-the-digits-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/omg0014/LEETCODE_STREAK/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3701-compute-alternating-sum) |
