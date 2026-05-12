@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1470-shuffle-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1470-shuffle-the-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1580-shuffle-the-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1306-minimum-absolute-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/omg0014/LEETCODE_STREAK/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
