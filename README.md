@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3798-largest-even-number](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3798-largest-even-number) |
+| [3931-check-adjacent-digit-differences](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3931-check-adjacent-digit-differences) |
 ## Hash Table
 |  |
 | ------- |
