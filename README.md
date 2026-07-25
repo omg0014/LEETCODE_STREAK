@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3663-find-the-least-frequent-digit) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3226-minimum-number-game) |
 | [3321-type-of-triangle](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3321-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/omg0014/LEETCODE_STREAK/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Heap (Priority Queue)
