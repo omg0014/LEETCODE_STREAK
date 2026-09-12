@@ -6,14 +6,9 @@ class Solution:
                 d[i]+=1
             else:
                 d[i]=1
-        x=""
-        for i,j in d.items():
-            if j==1:
-                x+=i
-                break
-        for i in range(len(s)):
-            if s[i]==x:
+        for i in range (len(s)):
+            a=s[i]
+            if d[a]==1:
                 return i
         return -1
-
         
